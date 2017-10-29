@@ -12,6 +12,8 @@
     "@types/restify": "^5.0.3"
   },
   "dependencies": {
+    "botbuilder": "latest",
+	"restify": "latest",
     "botbuilder-location": "^2.0.0"
   }
 }
